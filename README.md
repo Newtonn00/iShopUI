@@ -1,4 +1,5 @@
-# Getting Started
+# iShopUI
+
 iShopUI is a prototype of the frontend component for the iShopApp (https://github.com/Newtonn00/iShopApp). 
 This project is built using React and provides a simple user interface for the e-commerce platform.
 
